@@ -7,9 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Zest0n&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zest0n&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<div align="center">
-  <img src="https://quickchart.io/chart?w=500&h=420&c={type:'radar',data:{labels:['Python','C','C%2B%2B','Bash/Shell','PowerShell','Supabase/SQL','HTML'],datasets:[{data:[95,85,80,85,70,75,65],backgroundColor:'rgba(74,222,128,0.25)',borderColor:'rgba(74,222,128,1)',borderWidth:2,pointBackgroundColor:'rgba(56,189,248,1)',pointRadius:4}]},options:{legend:{display:false},scale:{gridLines:{circular:true,color:'rgba(148,163,184,0.18)'},angleLines:{color:'rgba(148,163,184,0.25)'},ticks:{display:false,max:100,min:0,stepSize:20},pointLabels:{fontSize:12,fontColor:'#38bdf8',fontFamily:'monospace'}}}}" width="450" alt="Language & Skill Radar" />
-</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zest0n&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
@@ -18,3 +16,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zest0n&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://quickchart.io/chart?w=500&h=420&bkg=transparent&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22C%22%2C%22C%2B%2B%22%2C%22Bash%2FShell%22%2C%22PowerShell%22%2C%22Supabase%2FSQL%22%2C%22HTML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B95%2C85%2C80%2C85%2C70%2C75%2C65%5D%2C%22backgroundColor%22%3A%22rgba(74%2C222%2C128%2C0.25)%22%2C%22borderColor%22%3A%22rgba(74%2C222%2C128%2C1)%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22rgba(56%2C189%2C248%2C1)%22%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22gridLines%22%3A%7B%22circular%22%3Atrue%2C%22color%22%3A%22rgba(148%2C163%2C184%2C0.18)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(148%2C163%2C184%2C0.25)%22%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22max%22%3A100%2C%22min%22%3A0%2C%22stepSize%22%3A20%7D%2C%22pointLabels%22%3A%7B%22fontSize%22%3A12%2C%22fontColor%22%3A%22%2338bdf8%22%2C%22fontFamily%22%3A%22monospace%22%7D%7D%7D%7D" width="440" alt="Language & Skill Radar" />
+</div>
